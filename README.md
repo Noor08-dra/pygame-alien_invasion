@@ -10,7 +10,7 @@ Built With
 - https://www.pygame.org 
 
 Getting Started
-1. Clone the repository:  https://github.com/Noor08-dra/pygame-alien_invasion.git
+1. Clone the repository: https://github.com/Noor08-dra/pygame-alien_invasion.git
 2. Install dependencies: pip install pygame 
 3. Run the game: python alien_invasion.py 
 
